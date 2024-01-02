@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Rohtanza</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Rohtanza</description>
+    <image>
+      <title>Rohtanza</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 15:07:19 -0500</lastBuildDate>
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flappy Bird 🐦</title>
+      <link>/projects/project_01_flappybird/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/projects/project_01_flappybird/</guid>
+      <description>Flappy Bird: An OOP Approach to Game Development.</description>
+    </item>
+    <item>
+      <title>🏞️ The Road - Explore Northern Pakistan</title>
+      <link>/projects/project_02_theroad/</link>
+      <pubDate>Tue, 02 Jan 2024 17:24:00 +0000</pubDate>
+      <guid>/projects/project_02_theroad/</guid>
+      <description>Your gateway to mesmerizing travels in the enchanting northern areas of Pakistan!</description>
+    </item>
+    <item>
+      <title>📚 Library Management System</title>
+      <link>/projects/project_03_libapp/</link>
+      <pubDate>Tue, 02 Jan 2024 17:23:00 +0000</pubDate>
+      <guid>/projects/project_03_libapp/</guid>
+      <description>A simple yet robust web-based Library Management System powered by HTML, CSS, and JavaScript.</description>
+    </item>
+    <item>
+      <title>🚀 Note Harmony</title>
+      <link>/projects/project_04_notetakingapp/</link>
+      <pubDate>Tue, 02 Jan 2024 17:23:00 +0000</pubDate>
+      <guid>/projects/project_04_notetakingapp/</guid>
+      <description>Your go-to note-taking app for streamlined organization and creativity.</description>
+    </item>
+  </channel>
+</rss>

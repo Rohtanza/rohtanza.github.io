@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Rohtanza</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Rohtanza</description>
+    <image>
+      <title>Rohtanza</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 15:07:19 -0500</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CLion</title>
+      <link>/tags/clion/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/clion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Development</title>
+      <link>/tags/game-development/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/game-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Git</title>
+      <link>/tags/git/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GitHub Pages</title>
+      <link>/tags/github-pages/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SFML</title>
+      <link>/tags/sfml/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/sfml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Static Site Generators</title>
+      <link>/tags/static-site-generators/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/static-site-generators/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Tue, 02 Jan 2024 17:24:00 +0000</pubDate>
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>/tags/html/</link>
+      <pubDate>Tue, 02 Jan 2024 17:24:00 +0000</pubDate>
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Tue, 02 Jan 2024 17:24:00 +0000</pubDate>
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Library Management System</title>
+      <link>/tags/library-management-system/</link>
+      <pubDate>Tue, 02 Jan 2024 17:23:00 +0000</pubDate>
+      <guid>/tags/library-management-system/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

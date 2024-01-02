@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Rohtanza</title>
+    <link>/tags/git/</link>
+    <description>Recent content in Git on Rohtanza</description>
+    <image>
+      <title>Rohtanza</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 15:07:19 -0500</lastBuildDate>
+    <atom:link href="/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting This Blog with Hugo</title>
+      <link>/blogs/crafting-blog-with-hugo/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/blogs/crafting-blog-with-hugo/</guid>
+      <description>Building a blog using Hugo - A brief walkthrough</description>
+    </item>
+  </channel>
+</rss>

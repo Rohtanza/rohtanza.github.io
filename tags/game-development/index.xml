@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Development on Rohtanza</title>
+    <link>/tags/game-development/</link>
+    <description>Recent content in Game Development on Rohtanza</description>
+    <image>
+      <title>Rohtanza</title>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jan 2024 15:07:19 -0500</lastBuildDate>
+    <atom:link href="/tags/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flappy Bird 🐦</title>
+      <link>/projects/project_01_flappybird/</link>
+      <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
+      <guid>/projects/project_01_flappybird/</guid>
+      <description>Flappy Bird: An OOP Approach to Game Development.</description>
+    </item>
+  </channel>
+</rss>
