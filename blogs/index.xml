@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jan 2024 15:07:19 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 05:43:51 -0500</lastBuildDate>
     <atom:link href="/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafting This Blog with Hugo</title>
@@ -19,6 +19,13 @@
       <pubDate>Tue, 02 Jan 2024 15:07:19 -0500</pubDate>
       <guid>/blogs/crafting-blog-with-hugo/</guid>
       <description>Building a blog using Hugo - A brief walkthrough</description>
+    </item>
+    <item>
+      <title>Creating and Deploying a Blog with Hugo on Github Pages 🚀</title>
+      <link>/blogs/blog_02_githubactions/</link>
+      <pubDate>Wed, 17 Jan 2024 05:43:51 -0500</pubDate>
+      <guid>/blogs/blog_02_githubactions/</guid>
+      <description>Deploying a blog using GitHub Actions</description>
     </item>
   </channel>
 </rss>
